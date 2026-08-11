@@ -66,7 +66,7 @@ nav a.active{
     cursor: pointer;   
 }
 
-,.hero button:hover {
+.hero button:hover{
     background: darkred;
 }
 
@@ -80,7 +80,7 @@ nav a.active{
     gap: 40px;
 }
 
-.video-text {
+.video-text{
     flex: 1;
 }
 
@@ -89,13 +89,13 @@ nav a.active{
 }
 
 .video-box video {
-    width:800px;
+    width:100%;
     border-radius: 10px;
 }
 
 .video-text h2 {
     font-size: 32px;
-    margin-botton:15px;
+    margin-bottom:15px;
 }
 
 .video-text p {
